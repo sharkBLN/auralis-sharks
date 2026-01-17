@@ -36,7 +36,7 @@ User data is handled with care:
 
 ## Contact
 
-📧 contact@humminghai.app
+📧 codingsharks@proton.me
 
 ## Status
 
